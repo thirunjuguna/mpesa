@@ -1,0 +1,13 @@
+{
+    "name": "thiru/mpesa",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "authors": [
+        {
+            "name": "Thiru Njuguna",
+            "email": "uriht@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
