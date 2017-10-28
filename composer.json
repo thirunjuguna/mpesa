@@ -7,7 +7,7 @@
     "support": {
         "issues": "https://github.com/thirunjuguna/mpesa/issues",
         "source": "https://github.com/thirunjuguna/mpesa/"
-    }
+    },
     "require": {
         "guzzlehttp/guzzle": "^6.3"
     },
