@@ -11,6 +11,6 @@ namespace Thiru\Mpesa;
 
 class Mpesa
 {
-    
+
 
 }
