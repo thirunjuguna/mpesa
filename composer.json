@@ -1,5 +1,13 @@
 {
     "name": "thiru/mpesa",
+    "description": "Mpesa api",
+    "keywords": ["mpesa", "api","b2c","c2b"],
+    "license": "MIT",
+    "homepage": "https://github.com/thirunjuguna/mpesa",
+    "support": {
+        "issues": "https://github.com/thirunjuguna/mpesa/issues",
+        "source": "https://github.com/thirunjuguna/mpesa/"
+    }
     "require": {
         "guzzlehttp/guzzle": "^6.3"
     },
