@@ -3,6 +3,10 @@
 namespace Thiru\Mpesa;
 
 use Illuminate\Support\ServiceProvider;
+use Thiru\Mpesa\B2C\B2CInterface;
+use Thiru\Mpesa\B2C\B2C;
+use Thiru\Mpesa\C2B\C2BInterface;
+use Thiru\Mpesa\C2B\C2B;
 
 class MpesaServiceProvider extends ServiceProvider
 {
@@ -36,6 +40,7 @@ class MpesaServiceProvider extends ServiceProvider
 //            return new Mpesa();
 //        });
         $this->app->alias(\Illuminate\Support\Str::class, 'Mpesa');
+
     }
 
 }
