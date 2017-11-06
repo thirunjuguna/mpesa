@@ -33,5 +33,10 @@ return [
     'C2bConsumerSecret'=>'hhdGFHDgjdcscasd',
 
 
-    "message" => "I heard you the first time."
+    "QueueTimeOutURL" => "",
+    "ResultURL"=>"",
+    "CallBackURL"=>"",
+    "PassKey"=>""
+
+
 ];
